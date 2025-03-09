@@ -1,6 +1,6 @@
 <template>
     <div>
-        <div class="container" style="margin-top: 120px;">
+        <div class="container" style="margin-top: 80px;">
             <Modal />
             <img src="/assets/img/imgs.jpeg" class="profile-img"><br>
             <h3 class="d-flex justify-content-center">Aproveite as Nossas Ofertas</h3>
